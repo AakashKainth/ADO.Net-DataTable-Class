@@ -1,0 +1,15 @@
+C:\Users\aakash\source\repos\ADO_Net_DataTable\ADO_Net_DataTable\bin\Debug\net6.0\ADO_Net_DataTable.exe
+C:\Users\aakash\source\repos\ADO_Net_DataTable\ADO_Net_DataTable\bin\Debug\net6.0\ADO_Net_DataTable.dll.config
+C:\Users\aakash\source\repos\ADO_Net_DataTable\ADO_Net_DataTable\bin\Debug\net6.0\ADO_Net_DataTable.deps.json
+C:\Users\aakash\source\repos\ADO_Net_DataTable\ADO_Net_DataTable\bin\Debug\net6.0\ADO_Net_DataTable.runtimeconfig.json
+C:\Users\aakash\source\repos\ADO_Net_DataTable\ADO_Net_DataTable\bin\Debug\net6.0\ADO_Net_DataTable.dll
+C:\Users\aakash\source\repos\ADO_Net_DataTable\ADO_Net_DataTable\bin\Debug\net6.0\ADO_Net_DataTable.pdb
+C:\Users\aakash\source\repos\ADO_Net_DataTable\ADO_Net_DataTable\obj\Debug\net6.0\ADO_Net_DataTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aakash\source\repos\ADO_Net_DataTable\ADO_Net_DataTable\obj\Debug\net6.0\ADO_Net_DataTable.AssemblyInfoInputs.cache
+C:\Users\aakash\source\repos\ADO_Net_DataTable\ADO_Net_DataTable\obj\Debug\net6.0\ADO_Net_DataTable.AssemblyInfo.cs
+C:\Users\aakash\source\repos\ADO_Net_DataTable\ADO_Net_DataTable\obj\Debug\net6.0\ADO_Net_DataTable.csproj.CoreCompileInputs.cache
+C:\Users\aakash\source\repos\ADO_Net_DataTable\ADO_Net_DataTable\obj\Debug\net6.0\ADO_Net_DataTable.dll
+C:\Users\aakash\source\repos\ADO_Net_DataTable\ADO_Net_DataTable\obj\Debug\net6.0\refint\ADO_Net_DataTable.dll
+C:\Users\aakash\source\repos\ADO_Net_DataTable\ADO_Net_DataTable\obj\Debug\net6.0\ADO_Net_DataTable.pdb
+C:\Users\aakash\source\repos\ADO_Net_DataTable\ADO_Net_DataTable\obj\Debug\net6.0\ADO_Net_DataTable.genruntimeconfig.cache
+C:\Users\aakash\source\repos\ADO_Net_DataTable\ADO_Net_DataTable\obj\Debug\net6.0\ref\ADO_Net_DataTable.dll
